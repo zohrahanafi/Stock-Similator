@@ -1,4 +1,4 @@
-# Stock-Similator
+# Stock-Simulator
 
 This implementation simulates a stock exchange where buy and sell orders for various tickers (stocks) are added, matched, and processed concurrently.
 
